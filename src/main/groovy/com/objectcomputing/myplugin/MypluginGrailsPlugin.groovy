@@ -1,4 +1,4 @@
-package com.objectcomputing.example
+package com.objectcomputing.myplugin
 
 import grails.plugins.*
 
