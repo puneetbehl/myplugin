@@ -11,7 +11,7 @@ buildscript {
 }
 
 version "0.1"
-group "com.objectcomputing.example"
+group "com.objectcomputing.myplugin"
 
 apply plugin:"eclipse"
 apply plugin:"idea"

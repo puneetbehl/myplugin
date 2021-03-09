@@ -1,4 +1,4 @@
-package com.objectcomputing.example
+package com.objectcomputing.myplugin
 
 import grails.boot.*
 import grails.boot.config.GrailsAutoConfiguration
